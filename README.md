@@ -5,11 +5,11 @@ A repository to store my solutions to various problems from leetcode and competi
 
 ### Searching 
 
-| No. | Name                    | Link                                                  |
-| --- | ----------------------- | ----------------------------------------------------- |
-| 1   | Linear Search           | [Python](./algorithms/searching/linear_search.py)     |
-| 2   | Binary Search           | [Python](./algorithms/searching/binary_search.py)     |
-| 3   | Recursive Binary Search | [Python](./algorithms/searching/binary_search_rec.py) |
+| No. | Name                    | Link                                                  | Time Complexity (Average) | Space Complexity (Worst) |
+| --- | ----------------------- | ----------------------------------------------------- | ------------------------- | ------------------------ |
+| 1   | Linear Search           | [Python](./algorithms/searching/linear_search.py)     | O(n)                      | O(1)                     |
+| 2   | Binary Search           | [Python](./algorithms/searching/binary_search.py)     | O(log(n))                 | O(1)                     |
+| 3   | Recursive Binary Search | [Python](./algorithms/searching/binary_search_rec.py) | O(log(n))                 | O(log(n))                |
 
 ## Codeforces
 
