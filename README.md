@@ -19,6 +19,7 @@ A repository to store my solutions to various problems from leetcode and competi
 | 1   | Bubble Sort    | [Python](./algorithms/sorting/bubble_sort.py)    | O(n^2)                    | O(1)                     |
 | 2   | Selection Sort | [Python](./algorithms/sorting/selection_sort.py) | O(n^2)                    | O(1)                     |
 | 3   | Insertion Sort | [Python](./algorithms/sorting/insertion_sort.py) | O(n^2)                    | O(1)                     |
+| 4   | Merge Sort     | [Python](./algorithms/sorting/merge_sort.py)     | O(n\*log(n))              | O(n)                     |
 
 ## Codeforces
 

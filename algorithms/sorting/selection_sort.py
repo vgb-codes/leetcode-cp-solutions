@@ -1,3 +1,10 @@
+"""
+Selection Sort
+Time Complexity (Average): O(n^2)
+Space Complexity (Worst): O(1)
+"""
+
+
 def selection_sort(sort_list):
     for i in range(len(sort_list)):
         min_ele = i
