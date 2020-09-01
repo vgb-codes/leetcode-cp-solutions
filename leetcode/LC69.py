@@ -1,6 +1,3 @@
-import sys
-
-
 def sqrt(x):
     if (x < 2):
         return x
@@ -14,8 +11,3 @@ def sqrt(x):
         else:
             left = middle + 1
     return left - 1
-
-
-if __name__ == '__main__':
-    num = int(sys.argv[1])
-    print(sqrt(num))

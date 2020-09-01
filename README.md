@@ -1,15 +1,24 @@
 # leetcode-cp-solutions
+
 A repository to store my solutions to various problems from leetcode and competitive programming websites.
 
 ## Algorithms
 
-### Searching 
+### Searching
 
 | No. | Name                    | Link                                                  | Time Complexity (Average) | Space Complexity (Worst) |
 | --- | ----------------------- | ----------------------------------------------------- | ------------------------- | ------------------------ |
 | 1   | Linear Search           | [Python](./algorithms/searching/linear_search.py)     | O(n)                      | O(1)                     |
 | 2   | Binary Search           | [Python](./algorithms/searching/binary_search.py)     | O(log(n))                 | O(1)                     |
 | 3   | Recursive Binary Search | [Python](./algorithms/searching/binary_search_rec.py) | O(log(n))                 | O(log(n))                |
+
+### Sorting
+
+| No. | Name           | Link                                             | Time Complexity (Average) | Space Complexity (Worst) |
+| --- | -------------- | ------------------------------------------------ | ------------------------- | ------------------------ |
+| 1   | Bubble Sort    | [Python](./algorithms/sorting/bubble_sort.py)    | O(n^2)                    | O(1)                     |
+| 2   | Selection Sort | [Python](./algorithms/sorting/selection_sort.py) | O(n^2)                    | O(1)                     |
+| 3   | Insertion Sort | [Python](./algorithms/sorting/insertion_sort.py) | O(n^2)                    | O(1)                     |
 
 ## Codeforces
 

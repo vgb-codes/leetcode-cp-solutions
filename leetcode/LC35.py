@@ -8,6 +8,3 @@ def search_insert_index(search_list, x):
         else:
             left = middle + 1
     return left
-
-
-print(search_insert_index([1,2,3,4,5,6],1))
