@@ -34,6 +34,7 @@ A repository to store my solutions to various problems from leetcode and competi
 | LC-162 | Find Peak Element            | [Python](./leetcode/LC162.py) |                 |                  |
 | LC-226 | Invert Binary Tree           | [Python](./leetcode/LC262.py) | O(n)            | O(n)             |
 | LC-278 | First Bad Problem            | [Python](./leetcode/LC278.py) |                 |                  |
+| LC-367 | Valid Perfect Square         | [Python](./leetcode/LC367.py) | O(log(n))       | O(1)             |
 | LC-374 | Guess Number Higher or Lower | [Python](./leetcode/LC374.py) |                 |                  |
 | LC-441 | Arranging Coind              | [Python](./leetcode/LC441.py) | O(log(n))       | O(1)             |
 | LC-704 | Binary Search                | [Python](./leetcode/LC704.py) | O(log(n))       | O(1)             |
