@@ -27,6 +27,7 @@ A repository to store my solutions to various problems from leetcode and competi
 
 | No.    | Problem                      | Link                          | Time Complexity | Space Complexity |
 | ------ | ---------------------------- | ----------------------------- | --------------- | ---------------- |
+| LC-1   | Two Sum                      | [Python](./leetcode/LC1.py)   | O(n)            | O(n)             |
 | LC-9   | Palindrome Number            | [Python](./leetcode/LC9.py)   | O(log(n))       | O(1)             |
 | LC-35  | Search Insert Element        | [Python](./leetcode/LC35.py)  |                 |                  |
 | LC-69  | Sqrt(x)                      | [Python](./leetcode/LC69.py)  |                 |                  |
@@ -34,4 +35,4 @@ A repository to store my solutions to various problems from leetcode and competi
 | LC-226 | Invert Binary Tree           | [Python](./leetcode/LC262.py) | O(n)            | O(n)             |
 | LC-278 | First Bad Problem            | [Python](./leetcode/LC278.py) |                 |                  |
 | LC-374 | Guess Number Higher or Lower | [Python](./leetcode/LC374.py) |                 |                  |
-| LC-704 | Binary Search                | [Python](./leetcode/LC704.py) |                 |                  |
+| LC-704 | Binary Search                | [Python](./leetcode/LC704.py) | O(log(n))       | O(1)             |
