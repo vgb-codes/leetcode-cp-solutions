@@ -36,7 +36,9 @@ A repository to store my solutions to various problems from leetcode and competi
 | No.     | Problem                                           | Link                           | Time Complexity | Space Complexity |
 | ------- | ------------------------------------------------- | ------------------------------ | --------------- | ---------------- |
 | LC-1    | Two Sum                                           | [Python](./leetcode/LC1.py)    | O(n)            | O(n)             |
+| LC-2    | Add Two Numbers                                   | [Python](./leetcode/LC2.py)    | O(max(m,n))     | O(max(m,n))      |
 | LC-9    | Palindrome Number                                 | [Python](./leetcode/LC9.py)    | O(log(n))       | O(1)             |
+| LC-21   | Merge Two Sorted Lists                            | [Python](./leetcode/LC21.py)   | O(n)            | O(1)             |
 | LC-35   | Search Insert Element                             | [Python](./leetcode/LC35.py)   |                 |                  |
 | LC-69   | Sqrt(x)                                           | [Python](./leetcode/LC69.py)   |                 |                  |
 | LC-162  | Find Peak Element                                 | [Python](./leetcode/LC162.py)  |                 |                  |
@@ -46,4 +48,5 @@ A repository to store my solutions to various problems from leetcode and competi
 | LC-374  | Guess Number Higher or Lower                      | [Python](./leetcode/LC374.py)  |                 |                  |
 | LC-441  | Arranging Coins                                   | [Python](./leetcode/LC441.py)  | O(log(n))       | O(1)             |
 | LC-704  | Binary Search                                     | [Python](./leetcode/LC704.py)  | O(log(n))       | O(1)             |
+| LC-876  | Middle of the Linked List                         | [Python](./leetcode/LC876.py)  | O(n)            | O(1)             |
 | LC-1290 | Convert Binary Number in a Linked List to Integer | [Python](./leetcode/LC1290.py) | O(n)            | O(1)             |
