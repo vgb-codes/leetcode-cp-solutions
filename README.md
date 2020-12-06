@@ -43,6 +43,7 @@ A repository to store my solutions to various problems from leetcode and competi
 | LC-35   | Search Insert Element                             | [Python](./leetcode/LC35.py)   |                 |                       |
 | LC-69   | Sqrt(x)                                           | [Python](./leetcode/LC69.py)   |                 |                       |
 | LC-162  | Find Peak Element                                 | [Python](./leetcode/LC162.py)  |                 |                       |
+| LC-167  | Two Sum II - Input array is sorted                | [Python](./leetcode/LC167.py)  | O(n)            | O(1)                  |
 | LC-209  | Minimum Size Subarray Sum                         | [Python](./leetcode/LC209.py)  | O(n)            | O(1)                  |
 | LC-226  | Invert Binary Tree                                | [Python](./leetcode/LC262.py)  | O(n)            | O(n)                  |
 | LC-278  | First Bad Problem                                 | [Python](./leetcode/LC278.py)  |                 |                       |
