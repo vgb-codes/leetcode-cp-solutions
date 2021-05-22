@@ -1,14 +1,10 @@
 # leetcode-cp-solutions
 
-A repository to store my solutions to various problems from leetcode and competitive programming websites.
+A repository to store my solutions to various problems from LeetCode, CodeForces and other programming problem websites.
 
 ## Data Structures
 
-### Linked Lists
-
-| No. | Name               | Link |
-| --- | ------------------ | ---- |
-| 1   | Singly Linked List |      |
+Under Construction
 
 ## Algorithms
 
@@ -40,15 +36,15 @@ A repository to store my solutions to various problems from leetcode and competi
 | LC-3    | Longest Substring Without Repeating Characters    | [Python](./leetcode/LC3.py)    | O(n)            | O(n) (Sliding Window) |
 | LC-9    | Palindrome Number                                 | [Python](./leetcode/LC9.py)    | O(log(n))       | O(1)                  |
 | LC-21   | Merge Two Sorted Lists                            | [Python](./leetcode/LC21.py)   | O(n)            | O(1)                  |
-| LC-35   | Search Insert Element                             | [Python](./leetcode/LC35.py)   |                 |                       |
-| LC-69   | Sqrt(x)                                           | [Python](./leetcode/LC69.py)   |                 |                       |
-| LC-162  | Find Peak Element                                 | [Python](./leetcode/LC162.py)  |                 |                       |
+| LC-35   | Search Insert Element                             | [Python](./leetcode/LC35.py)   | O(log(n))       | O(1)                  |
+| LC-69   | Sqrt(x)                                           | [Python](./leetcode/LC69.py)   | O(log(n))       | O(1)                  |
+| LC-162  | Find Peak Element                                 | [Python](./leetcode/LC162.py)  | O(log(n))       | O(1)                  |
 | LC-167  | Two Sum II - Input array is sorted                | [Python](./leetcode/LC167.py)  | O(n)            | O(1)                  |
 | LC-209  | Minimum Size Subarray Sum                         | [Python](./leetcode/LC209.py)  | O(n)            | O(1)                  |
 | LC-226  | Invert Binary Tree                                | [Python](./leetcode/LC262.py)  | O(n)            | O(n)                  |
-| LC-278  | First Bad Problem                                 | [Python](./leetcode/LC278.py)  |                 |                       |
+| LC-278  | First Bad Problem                                 | [Python](./leetcode/LC278.py)  | O(log(n))       | O(1)                  |
 | LC-367  | Valid Perfect Square                              | [Python](./leetcode/LC367.py)  | O(log(n))       | O(1)                  |
-| LC-374  | Guess Number Higher or Lower                      | [Python](./leetcode/LC374.py)  |                 |                       |
+| LC-374  | Guess Number Higher or Lower                      | [Python](./leetcode/LC374.py)  | O(log(n))       | O(1)                  |
 | LC-441  | Arranging Coins                                   | [Python](./leetcode/LC441.py)  | O(log(n))       | O(1)                  |
 | LC-704  | Binary Search                                     | [Python](./leetcode/LC704.py)  | O(log(n))       | O(1)                  |
 | LC-876  | Middle of the Linked List                         | [Python](./leetcode/LC876.py)  | O(n)            | O(1)                  |
