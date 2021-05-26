@@ -40,6 +40,7 @@ Under Construction
 | LC-69   | Sqrt(x)                                           | [Python](./leetcode/LC69.py)   | O(log(n))       | O(1)                  |
 | LC-162  | Find Peak Element                                 | [Python](./leetcode/LC162.py)  | O(log(n))       | O(1)                  |
 | LC-167  | Two Sum II - Input array is sorted                | [Python](./leetcode/LC167.py)  | O(n)            | O(1)                  |
+| LC-198| House Robber | [Python](./leetcode/LC198.py) | O(n) | O(n) |
 | LC-209  | Minimum Size Subarray Sum                         | [Python](./leetcode/LC209.py)  | O(n)            | O(1)                  |
 | LC-226  | Invert Binary Tree                                | [Python](./leetcode/LC262.py)  | O(n)            | O(n)                  |
 | LC-278  | First Bad Problem                                 | [Python](./leetcode/LC278.py)  | O(log(n))       | O(1)                  |
